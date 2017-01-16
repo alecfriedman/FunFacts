@@ -9,7 +9,7 @@
 import GameKit
 
 
-struct FactProvider {
+struct FactProvider { 
     let facts = [
         "Ants stretch when they wake up in the morning.",
         "Ostriches can run faster than horses.",
